@@ -1,0 +1,11 @@
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\bin\Debug\netcoreapp2.0\Bank_of_Simba.deps.json
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\bin\Debug\netcoreapp2.0\Bank_of_Simba.runtimeconfig.json
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\bin\Debug\netcoreapp2.0\Bank_of_Simba.runtimeconfig.dev.json
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\bin\Debug\netcoreapp2.0\Bank_of_Simba.dll
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.csprojResolveAssemblyReference.cache
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.csproj.CoreCompileInputs.cache
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.AssemblyInfoInputs.cache
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.AssemblyInfo.cs
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\bin\Debug\netcoreapp2.0\Bank_of_Simba.pdb
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.dll
+C:\Users\user\greenfox\Nyina\week-08\day03\Bank_of_Simba\Bank_of_Simba\obj\Debug\netcoreapp2.0\Bank_of_Simba.pdb
